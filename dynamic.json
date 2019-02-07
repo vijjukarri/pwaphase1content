@@ -1,0 +1,40 @@
+{
+	"profile":{
+		"img":"1.jpg",
+		"name":"vijaya lakshmi",
+		"roll":"17A31A0514",
+		"institute":"pragati",
+		"place":"surampalem"
+	},
+	"career":{
+		"info":"to reach highest position"
+	},
+	"education":[
+		{
+			"sno":"1",
+			"degree":"btech",
+			"institute":"pragati",
+			"yop":"88%"
+		},
+		{
+			"sno":"2",
+			"degree":"inter",
+			"institute":"narayana",
+			"yop":"98%"
+		},
+		{
+			"sno":"3",
+			"degree":"ssc",
+			"institute":"gamyam",
+			"yop":"98%"
+		}
+	],
+	"languages":[
+		{
+			"lang":"english"
+		},
+		{
+			"lang":"telugu"
+		}
+	]
+}
